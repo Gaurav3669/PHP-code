@@ -1,2 +1,2 @@
 # PHP-code
-https://www.programiz.com/online-compiler/3zoSbC7ka2PXQ
+https://www.programiz.com/online-compiler/9iJWCBh5tPHzF
